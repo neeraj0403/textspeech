@@ -1,2 +1,2 @@
 # textspeech
-#code will be uploaded for text to speech conversion
+#code will be uploaded for offline  text to speech conversion
